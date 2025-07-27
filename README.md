@@ -1,6 +1,7 @@
 # Mouse Jiggler
 
-https://getyarn.io/yarn-clip/00ac60db-0737-4c0a-9dfe-7f36b46c8c6b/gif
+![jiggle](https://github.com/user-attachments/assets/80ede37f-942a-44d8-a4a0-1c5e02558659)
+
 
 A simple and effective mouse jiggler application built with PowerShell and Windows Forms to prevent your computer from going idle.
 
